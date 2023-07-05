@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fábio Alves 🖐️
+## Olá! Eu sou o Fábio 🖐️
 
 [![Blog](https://img.shields.io/website?label=fabiojr.com&style=for-the-badge&url=https://fabiojr.com/)](https://fabiojr.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabiopsy)
