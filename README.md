@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/website?label=fabiojr.com&style=for-the-badge&url=https://fabiojr.com/)](https://fabiojr.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fabiopsy)
 
-![Fábio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopsy&show_icons=true&theme=dracula&count_private=true)
+[![Fábio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiopsy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
