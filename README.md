@@ -16,6 +16,5 @@
 
 Apaixonado por tecnologia, educação e por resolver problemas reais através da programação.
 
-## 👩🏻‍💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopsy&layout=compact&theme=omni)](https://github.com/fabiopsy/github-readme-stats)
+<!--  ## 👩🏻‍💻 Linguagens mais usadas
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiopsy&layout=compact&theme=omni)](https://github.com/fabiopsy/github-readme-stats) -->
